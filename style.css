@@ -1,0 +1,13 @@
+h1{
+    margin: 0;
+    padding-bottom: 5px;
+}
+.loginDiv{
+    padding-top:20%;
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+.loginDiv div{
+    padding-bottom: 5px;
+}
